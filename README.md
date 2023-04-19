@@ -1,3 +1,11 @@
+**Fork to enable GitHub Pages for the certification mark generator.**
+
+I'm too lazy to download the code everytime I needed a certification mark from the generator. That's why I created a GH Pages website that just hosts the HTML file indefinitely! Go to this URL to visit the generator: [https://nuclearphoenix.xyz/certification-mark/](https://nuclearphoenix.xyz/certification-mark/)
+
+The code is taken from this gist here: [https://gist.github.com/jywarren/f4ff501cf73f972caf74e42f2f8bf2d0](https://gist.github.com/jywarren/f4ff501cf73f972caf74e42f2f8bf2d0)
+
+---
+
 This repository contains artwork and usage guidelines for the graphic mark of the [Open Source Hardware Self-Certification program](https://certification.oshwa.org/) hosted by OSHWA.
 
 [This page](http://bl.ocks.org/jywarren/f4ff501cf73f972caf74e42f2f8bf2d0) will help you generate an SVG version of the logo with your UID. 
