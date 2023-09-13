@@ -1,5 +1,7 @@
 **Fork to enable GitHub Pages for the certification mark generator.**
 
+**EDIT: IMPORTANT! THIS IS NO LONGER NEEDED. IF YOU JUST WANT TO DOWNLOAD THE SVGs OR PNGs, GO TO YOUR PROJECT PAGE IN THE OSHWA PROJECT LIST!**
+
 I'm too lazy to download the code everytime I needed a certification mark from the generator. That's why I created a GH Pages website that just hosts the HTML file indefinitely! Go to this URL to visit the generator: [https://nuclearphoenix.xyz/certification-mark/](https://nuclearphoenix.xyz/certification-mark/)
 
 The code is taken from this gist here: [https://gist.github.com/jywarren/f4ff501cf73f972caf74e42f2f8bf2d0](https://gist.github.com/jywarren/f4ff501cf73f972caf74e42f2f8bf2d0)
